@@ -1,3 +1,4 @@
+Added the ability to sell items and some tests to make sure it works.
 Constructed rudimentary smart contract, deployed and tested manually, added automated test for deployment and ran successfully.
 Imported starter kit from https://github.com/dappuniversity/starter_kit
 Beginning of development.
