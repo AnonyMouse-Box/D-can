@@ -32,7 +32,7 @@ contract ('Marketplace', ([deployer, seller, buyer]) => {
         before(async () => {
             result = await marketplace.createProduct('iPhone X', web3.utils.toWei('1', 'Ether'), {from: seller})
             productCount = await marketplace.productCount()
-        }
+        })
 
         it('creates products', async () => {
             //SUCCESS
