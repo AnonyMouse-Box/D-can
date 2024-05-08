@@ -1,3 +1,4 @@
+Built the Ethereum framework in node to connect wallets and web3.
 Added the ability to purchased items and tests to ensure transactions are processed properly.
 Added the ability to sell items and some tests to make sure it works.
 Constructed rudimentary smart contract, deployed and tested manually, added automated test for deployment and ran successfully.
